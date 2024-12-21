@@ -1,4 +1,4 @@
-Zab Shop - E-Commerce Bookstore
+#Zab Shop - E-Commerce Bookstore
 Zab Shop is an online bookstore platform that allows users to buy and manage books through a seamless e-commerce experience. It provides various features such as account management, product search, shopping cart functionality, and an admin dashboard with analytics.
 
 Features
