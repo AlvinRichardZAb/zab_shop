@@ -139,20 +139,6 @@ This version can be directly uploaded to GitHub as a `README.md` file, and it wi
 
 
 
-![image](https://github.com/user-attachments/assets/988443ab-55aa-4e20-905a-29426e36b2e5)
-![image](https://github.com/user-attachments/assets/6e9b02ce-17ca-4693-8919-0c0e7a8f19ca)
-![image](https://github.com/user-attachments/assets/426d2415-7900-4390-a395-911192a33dca)
-![image](https://github.com/user-attachments/assets/d5422927-a2e7-4df7-bfe0-cf15c96ecfe7
-![image](https://github.com/user-attachments/assets/3d8493fb-abf2-45a4-bfd2-d149d170b6a0)
-![image](https://github.com/user-attachments/assets/054a94e5-3ab9-4b17-afc1-1dd828864e84)
-![image](https://github.com/user-attachments/assets/a9271951-4f1c-4bd6-a176-ee4f5ed505fb)
-![image](https://github.com/user-attachments/assets/8dfc3343-ee40-4501-bf55-ea1b7158d990)
-![image](https://github.com/user-attachments/assets/f33b2b58-410c-4e71-b645-0d6a1ec23019)
-![image](https://github.com/user-attachments/assets/b6d490df-e803-47cf-bb6b-5e6c82ce022c)
-![image](https://github.com/user-attachments/assets/b470a92d-a9ec-43d9-810f-6c456508fd2f)
-![image](https://github.com/user-attachments/assets/0991ea62-4509-4373-98f1-ef41532d51a6)
-
-
 
 
 
